@@ -238,26 +238,4 @@ It forms a strong foundation for:
 * Web / API interface
 * LangGraph-based reasoning loops
 
----
 
-## 📜 License
-
-MIT License (add if applicable)
-
----
-
-## 🙌 Author
-
-**Naresh Jujare**
-Building memory-driven AI systems 🧠⚙️
-
----
-
-If you want next:
-
-* **Architecture diagram (PNG / SVG)**
-* **Badges (Docker, OpenAI, Python)**
-* **Research-paper style abstract**
-* **Portfolio / LinkedIn explanation**
-
-Just say the word.
