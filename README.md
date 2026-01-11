@@ -1,7 +1,3 @@
-Excellent choice. Below is the **final, fully polished README.md** with the **Dev Container recommendation seamlessly merged**—no repetition, clean flow, and GitHub-professional.
-
-You can **copy-paste this directly as `README.md`**.
-
 ---
 
 # 🧠 Memory-Aware AI Assistant
